@@ -12,7 +12,7 @@ A simple web-based scorekeeper for a Ping-Pong game! This project allows users t
 ## Tech Stack
 
 - **HTML**: Structure of the scorekeeper
-- **CSS**: Styling for the application
+- **BULMA**: Styling for the application
 - **JavaScript**: Functionality to handle score updates and winning logic
 - **Confetti Library**: Added for visual celebration effects when a player wins
 
